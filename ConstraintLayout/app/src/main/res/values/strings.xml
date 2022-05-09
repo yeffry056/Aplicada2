@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="escribe_tu_contrase_a">Escribe tu contraseña</string>
+    <string name="escribe_tu_usuario">Escribe tu usuario</string>
+</resources>
